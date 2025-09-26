@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #ff4f75;
 }
 
 h1 {
@@ -16,38 +16,41 @@ footer {
   font-family: sans-serif;
 }
 
-.w {
-  background-image: url(images/tom1.png);
+.monkey {
+  background-image: url(images/monkey.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.lion {
+  background-image: url(images/lion.jpg);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 
-.a {
-  background-image: url(images/tom2.png);
+.wolf {
+  background-image: url(images/wolf.jpg);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.elephant {
+  background-image: url(images/elephant.jpg);
+      background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 
-.s {
-  background-image: url(images/tom3.png);
-
-}
-
-.d {
-  background-image: url(images/tom4.png);
-
-}
-
-.j {
-  background-image: url(images/snare.png);
-
-}
-
-.k {
-  background-image: url(images/crash.png);
-
-}
-
-.l {
-  background-image: url(images/kick.png);
+.bear {
+  background-image: url(images/bear.jpg);
+        background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 
@@ -69,9 +72,9 @@ footer {
   color: red;
 }
 
-.drum {
+.jungle {
   outline: none;
-  border: 10px solid #404B69;
+  border: 5px solid #404B69;
   font-size: 5rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
